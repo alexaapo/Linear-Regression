@@ -9,3 +9,5 @@ During training I have been experimented with:
   1. Batch Gradient Descent
   2. Mini Batch Gradient Descent
   3. Stohastic Gradient Descent
+
+***Note:*** My solution is implemented in Python and the report is well documented. For running the notebooks, I used the Google Colab with its GPU.
