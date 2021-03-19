@@ -11,3 +11,5 @@ During training I have been experimented with:
   3. Stohastic Gradient Descent
 
 ***Note:*** My solution is implemented in ***Python*** and the report is well documented. For running the notebooks, I used the Google Colab with its GPU.
+
+For the Google Colab Notebook click here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lvck6kwBTjsZNaz6zIQwKsURItKFQwsg)
